@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dmc-practice/static/css/main.5916ac34.css",
+    "main.js": "/dmc-practice/static/js/main.c6119686.js",
+    "static/js/787.fa983d1d.chunk.js": "/dmc-practice/static/js/787.fa983d1d.chunk.js",
+    "index.html": "/dmc-practice/index.html",
+    "main.5916ac34.css.map": "/dmc-practice/static/css/main.5916ac34.css.map",
+    "main.c6119686.js.map": "/dmc-practice/static/js/main.c6119686.js.map",
+    "787.fa983d1d.chunk.js.map": "/dmc-practice/static/js/787.fa983d1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5916ac34.css",
+    "static/js/main.c6119686.js"
+  ]
+}
